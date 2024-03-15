@@ -8,8 +8,7 @@ Collection of solutions to the challenges on coderbyte.com.
 ### Table of Contents
 | Challenge | Difficulty |
 | --------- | ---------- |
-|[<strong>Bracket Combinations</strong>](/bracket%20combinations/) | ![Static Badge](https://img.shields.io/badge/Difficulty-Hard-red?style=for-the-badge)
- |
+|[<strong>Bracket Combinations</strong>](/bracket%20combinations/) | ![Static Badge](https://img.shields.io/badge/Difficulty-Hard-red?style=for-the-badge)|
 |[<strong>Codeland Username Validation</strong>](/codeland%20username%20validation/) | ![Static Badge](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)|
 |[<strong>Find Intersection</strong>](/find%20intersection/)| ![Static Badge](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)|
 
