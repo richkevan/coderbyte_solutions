@@ -8,9 +8,11 @@ Collection of solutions to the challenges on coderbyte.com.
 ### Table of Contents
 | Challenge | Difficulty |
 | --------- | ---------- |
-|[<strong>Bracket Combinations</strong>](/bracket%20combinations/) | <span style="color:red">Hard</span> |
-|[<strong>Codeland Username Validation</strong>](/codeland%20username%20validation/) | <span style="color:green">Easy</span>|
-|[<strong>Find Intersection</strong>](/find%20intersection/)| <span style="color:green">Easy</span>|
+|[<strong>Bracket Combinations</strong>](/bracket%20combinations/) | ![Static Badge](https://img.shields.io/badge/Difficulty-Hard-red?style=for-the-badge)
+ |
+|[<strong>Codeland Username Validation</strong>](/codeland%20username%20validation/) | ![Static Badge](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)
+|
+|[<strong>Find Intersection</strong>](/find%20intersection/)| ![Static Badge](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)|
 
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/richkevan/coderbyte_solutions?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Frichkevan%2Fcoderbyte_solutions)]("https://github.com/richkevan/coderbyte_solutions")
