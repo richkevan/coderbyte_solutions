@@ -1,5 +1,3 @@
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 # [Coderbyte Solutions]('https://coderbyte.com/challenges')
 
 Collection of solutions to the challenges on coderbyte.com. 
@@ -15,5 +13,5 @@ Collection of solutions to the challenges on coderbyte.com.
 |[<strong>Find Intersection</strong>](/find%20intersection/)| <span style="color:green">Easy</span>|
 
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/richkevan/coderbyte_solutions)]("https://github.com/richkevan/coderbyte_solutions")
-[![GitHub watchers](https://img.shields.io/github/watchers/richkevan/coderbyte_solutions?link=https%3A%2F%2Fgithub.com%2Frichkevan%2Fcoderbyte_solutions%2Fsubscription)](https://github.com/richkevan/coderbyte_solutions/subscription)
+[![GitHub Repo stars](https://img.shields.io/github/stars/richkevan/coderbyte_solutions?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Frichkevan%2Fcoderbyte_solutions)]("https://github.com/richkevan/coderbyte_solutions")
+[![GitHub watchers](https://img.shields.io/github/watchers/richkevan/coderbyte_solutions?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Frichkevan%2Fcoderbyte_solutions%2Fsubscription)](https://github.com/richkevan/coderbyte_solutions/subscription)
