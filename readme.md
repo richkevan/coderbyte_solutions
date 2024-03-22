@@ -14,6 +14,7 @@ Collection of solutions to the challenges on coderbyte.com.
 |[<strong>First Factorial</strong>](/first%20factorial/)|![Static Badge](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)|
 |[<strong>First Reverse</strong>](/first%20reverse/)|![Static Badge](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)|
 |[<strong>Longest Word</strong>](/longest%20word/)|![Static Badge](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)|
+|[<strong>Min Window String</strong>](/min%20window%20string/)|![Static Badge](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge)|
 |[<strong>Question Marks</strong>](/question%20marks/)|![Static Badge](https://img.shields.io/badge/Difficulty-Easy-green?style=for-the-badge)|
 
 
